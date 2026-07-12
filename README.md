@@ -42,4 +42,4 @@ Scholarship: Eligible
 ## Source Code
 
 Main.java:
-https://github.com/AtharvVhanalkar/Student-Grade-And-Scholarship-Checker/blob/main/src/Main.java
+https://github.com/AtharvVhanalkar/Student-Grade-And-Scholarship-Checker/blob/main/src/project1.java
