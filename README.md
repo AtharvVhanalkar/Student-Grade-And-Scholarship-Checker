@@ -38,3 +38,8 @@ Scholarship: Eligible
 - Organize code using methods
 - Save reports to a file
 - Build a GUI version
+
+## Source Code
+
+Main.java:
+https://github.com/AtharvVhanalkar/Student-Grade-And-Scholarship-Checker/blob/main/src/Main.java
