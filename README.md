@@ -21,15 +21,15 @@ A beginner Java console application that calculates student grades, pass/fail st
 ## Sample Output
 
 ```
---------------------------
+---------------------------
       STUDENT REPORT
---------------------------
+---------------------------
 Name: John
 Marks: 91
 Grade: A
 Result: PASS
 Scholarship: Eligible
---------------------------
+---------------------------
 ```
 
 ## Future Improvements
